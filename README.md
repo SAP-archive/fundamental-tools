@@ -1,3 +1,11 @@
+## Deprecation Notice
+
+This public repository is no longer maintained. Please see [this issue](https://github.com/SAP/PyRFC/issues/372) for details.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
+
 # Fundamental Library for ABAP <!-- omit in toc -->
 
 [![node-rfc release](https://img.shields.io/npm/v/abap-api-tools.svg)](https://www.npmjs.com/package/abap-api-tools)

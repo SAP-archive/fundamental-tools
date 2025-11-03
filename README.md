@@ -1,6 +1,6 @@
 ## Deprecation Notice
 
-This public repository is no longer maintained. Please see [this issue](https://github.com/SAP/PyRFC/issues/372) for details.
+This public repository is no longer maintained.
 
 ![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
 
